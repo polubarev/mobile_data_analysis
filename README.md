@@ -13,5 +13,5 @@ CONNECTION_TYPE - the cell phone connection type to the internet. 1 : wifi conne
 connection.
 
 Example of a row from the data:
-LOCAL_REQUEST_TIME    DEVICE_ID   GEO_LAT    GEO_LON    SUPPLIER_ID   CONNECTION TYPE
-2023-01-05 14:43:10   3           32.78551   35.34345   2             1
+![alt text](https://github.com/polubarev/mobile_data_analysis/blob/main/Images/data.jpg?raw=true)
+
