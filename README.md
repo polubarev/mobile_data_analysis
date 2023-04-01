@@ -13,5 +13,6 @@ CONNECTION_TYPE - the cell phone connection type to the internet. 1 : wifi conne
 connection.
 
 Example of a row from the data:
+
 ![alt text](https://github.com/polubarev/mobile_data_analysis/blob/main/Images/data.jpg?raw=true)
 
